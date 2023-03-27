@@ -1,0 +1,5 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=61DAFB&width=435&lines=Hello%2C+I+am+Kauan+Carvalho+%F0%9F%91%8B%F0%9F%8F%BB" alt="Typing SVG" />
+  </a>
+</div>
