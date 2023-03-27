@@ -9,7 +9,12 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauankarvalho&layout=compact&hide_border=true&theme=react&border_color=61dafb&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
-<br/>
+<div align="center">
+  <img width="30px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML" />
+  <img width="30px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS" />
+  <img width="30px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" />
+</div>
+
 <br/>
 
 <div align="center">
