@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauankarvalho&theme=react&border_color=61dafb&count_private=true&hide_border=true" alt="Github Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauankarvalho&layout=compact&hide_border=true&theme=react&border_color=61dafb" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kauankarvalho&theme=react&border_color=61dafb&count_private=true&hide_border=true&bg_color=0d1117" alt="Github Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauankarvalho&layout=compact&hide_border=true&theme=react&border_color=61dafb&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
 <br/>
