@@ -16,11 +16,4 @@
   <img width="30px" style="margin-right: 5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" alt="Git" />
 </div>
 
-<br/>
-
-<div align="center">
-  <p align="centre"><strong>Visitors Count</strong></p>  
-  <img align="center" src="https://profile-counter.glitch.me/{kauankarvalho}/count.svg" alt="Profile Counter" />
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=61dafb&height=120&section=footer" alt="Style Bar" />
