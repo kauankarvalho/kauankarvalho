@@ -26,28 +26,24 @@
   />
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 5px;">
   <img
     width="30px"
-    style="margin-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
     alt="HTML"
   />
   <img
     width="30px"
-    style="margin-right: 5px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
     alt="CSS"
   />
   <img
     width="30px"
-    style="margin-right: 7px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
     alt="JavaScript"
   />
   <img
     width="30px"
-    style="margin-right: 2px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
     alt="Git"
   />
