@@ -41,15 +41,20 @@
   />
   <img
     width="30px"
-    style="margin-right: 5px"
+    style="margin-right: 7px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
     alt="JavaScript"
   />
   <img
     width="30px"
-    style="margin-right: 5px"
+    style="margin-right: 2px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
     alt="Git"
+  />
+  <img
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+    alt="Figma"
   />
 </div>
 
