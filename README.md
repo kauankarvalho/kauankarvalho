@@ -44,6 +44,11 @@
   />
   <img
     width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    alt="Tailwind CSS"
+  />
+  <img
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
     alt="Git"
   />
