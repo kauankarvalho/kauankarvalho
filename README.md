@@ -15,13 +15,13 @@
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=kauankarvalho&theme=react&border_color=61dafb&count_private=true&hide_border=true&bg_color=0d1117"
-    alt="Github Stats"
+    src="https://github-readme-stats.vercel.app/api?username=kauankarvalho&custom_title=Kauan Carvalho GitHub Status&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&hide_rank=true&theme=react&hide_border=true&bg_color=00000000"
+    alt="GitHub Stats"
   />
   <img
     width="41%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauankarvalho&layout=compact&hide_border=true&theme=react&border_color=61dafb&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauankarvalho&layout=compact&hide_border=true&theme=react&bg_color=00000000"
     alt="Most Used Languages"
   />
 </div>
@@ -51,11 +51,6 @@
     width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"
     alt="Git"
-  />
-  <img
-    width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
-    alt="Figma"
   />
 </div>
 
