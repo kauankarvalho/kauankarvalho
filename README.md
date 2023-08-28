@@ -15,7 +15,7 @@
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=kauankarvalho&custom_title=Kauan Carvalho GitHub Status&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&hide_rank=true&theme=react&hide_border=true&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=kauankarvalho&hide=prs,issues,contribs&include_all_commits=true&show_icons=true&hide_rank=true&theme=react&hide_border=true&bg_color=00000000"
     alt="GitHub Stats"
   />
   <img
