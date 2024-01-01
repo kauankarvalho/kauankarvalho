@@ -44,6 +44,16 @@
   />
   <img
     width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+    alt="NodeJS"
+  />
+  <img
+    width="30px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    alt="ReactJS"
+  />
+  <img
+    width="30px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
     alt="Tailwind CSS"
   />
