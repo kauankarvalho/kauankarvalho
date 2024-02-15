@@ -54,7 +54,7 @@
   />
   <img
     width="30px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
     alt="Tailwind CSS"
   />
   <img
